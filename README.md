@@ -6,7 +6,14 @@ Johns Hopkin's Data Science in R Specialization on Coursera
 2) Overview of R, Rstudio, and R project
 3) Connecting Github to Rstudio and overview of version control
 4) R Markdown overview
-5) Experimental design
+5) Types of Data Analysis
+  + Descriptive
+  + Exploratory
+  + Inferential
+  + Predictive
+  + Causal
+  + Mechanistic
+6) Experimental design
 
 # R Programming
 1) Fundamentals
